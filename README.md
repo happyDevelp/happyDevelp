@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happydevelp&label=Profile%20views&color=0e75b6&style=flat" alt="happydevelp" /> </p>
 
-- 🌱 I’m currently learning **Android Jetpack, libriries (Moshi, Glide and e.t.c.**
+- 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 📫 How to reach me **OlesMalish37@gmail.com**
 
