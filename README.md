@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oles Malysh</h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happydevelp&label=Profile%20views&color=0e75b6&style=flat" alt="happydevelp" /> </p>
-
-- 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 📫 How to reach me **OlesMalish37@gmail.com**
 
